@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="Asesino" size="0.200000 0.200000" />
     <ImageTarget name="lkwfesa" size="0.300000 0.168750" />
     <ImageTarget name="Fondo" size="0.300000 0.168750" />
     <ImageTarget name="Escena" size="0.500000 0.375000" />
