@@ -2925,7 +2925,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 849e6dcc71015254da00244b73eca9dc,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.2
+      value: 19.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 849e6dcc71015254da00244b73eca9dc,
         type: 3}
@@ -3674,8 +3674,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Rebeca Yolin\nEdad: 19\nPeso: 32\nOcupaci\xF3n: Ama de casa\nExcusa: estuvo
-    con su esposo toda la noche\nAmante de la victima"
+  m_text: "Rebeca Yolin\nEdad: 19\nPeso: 32\nAltura:  168 cm\nOcupaci\xF3n: Ama de
+    casa\nExcusa: estuvo con su esposo \ntoda la noche\nAmante de la victima"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3780,7 +3780,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: ec0f5a4664c04ad459b951e5b0b63c8f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.2
+      value: 19.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: ec0f5a4664c04ad459b951e5b0b63c8f,
         type: 3}
@@ -5416,8 +5416,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Kevin smith\nEdad: 37\nPeso: 58\nOcupaci\xF3n: desconocida\nExcusa: se
-    niega a colaborar\nVendedor de segunda mano"
+  m_text: "Kevin smith\nEdad: 37\nPeso: 58\nAltura:  175 cm\nOcupaci\xF3n: desconocida\nExcusa:
+    se niega a colaborar\nVendedor de segunda mano"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5678,7 +5678,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 58eb8a18d9071c84592646e0c44ac524,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.2
+      value: 22.7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 58eb8a18d9071c84592646e0c44ac524,
         type: 3}
@@ -5724,6 +5724,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 362486388925445193, guid: 58eb8a18d9071c84592646e0c44ac524,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.461
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 58eb8a18d9071c84592646e0c44ac524,
         type: 3}
@@ -6471,8 +6476,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Carlos santana\nEdad: 24\nPeso: 84\nOcupaci\xF3n: manager de discord\nExcusa:
-    estuvo jugando entre las 9:00 pm y 4:00 am\nMejor amigo de la victima"
+  m_text: "Carlos santana\nEdad: 24\nPeso: 84\nAltura:  170 cm\nOcupaci\xF3n: manager
+    de discord\nExcusa: estuvo jugando entre las 9:00 pm y 4:00 am\nMejor amigo de
+    la victima"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7488,8 +7494,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Yuribileizis Torres\nEdad: 32\nPeso: 58\nOcupaci\xF3n: Onlyfans\nExcusa:
-    estuvo grabando su ultimo video\nPrima de la victima"
+  m_text: "Yuribileizis Torres\nEdad: 32\nPeso: 58\nAltura: 167 cm\nOcupaci\xF3n:
+    Onlyfans\nExcusa: estuvo grabando su \nultimo video\nPrima de la victima"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7983,8 +7989,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Rogelio Martinez\nEdad: 38\nPeso: 72\nOcupaci\xF3n: Banquero\nExcusa:
-    Estuvo en el banco entre las 12 y las 2 de la ma\xF1ana\nCobrador de la victima"
+  m_text: "Rogelio Martinez\nEdad: 38\nPeso: 72\nAltura:  176 cm\nOcupaci\xF3n: Banquero\nExcusa:
+    Estuvo en el banco entre las 12 y \nlas 2 de la ma\xF1ana\nCobrador de la victima"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8983,7 +8989,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: a054516b8398be949a5b822abed004de,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.2
+      value: 21.5
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: a054516b8398be949a5b822abed004de,
         type: 3}
@@ -10163,8 +10169,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Javier Colmenares\nEdad: 43\nPeso: 78\nOcupaci\xF3n: Taller mecanico\nExcusa:
-    Estuvo tomando anoche\nTio de la victima"
+  m_text: "Javier Colmenares\nEdad: 43\nPeso: 78\nAltura:  170 cm\nOcupaci\xF3n:
+    Taller mecanico\nExcusa: Estuvo tomando anoche\nTio de la victima"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10540,7 +10546,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c847a8aa7aa2dc14fba866a526c2903c,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.2
+      value: 20.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c847a8aa7aa2dc14fba866a526c2903c,
         type: 3}
@@ -10666,7 +10672,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 411d380c01c34214cbd50d821232295f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 17.2
+      value: 20.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 411d380c01c34214cbd50d821232295f,
         type: 3}
